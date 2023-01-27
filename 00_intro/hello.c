@@ -5,7 +5,7 @@
 
 int main(void) {
     
-  print("Hello from another C progam!\n");
+  printf("Hello from another C progam!\n");
   for(int i = 0; i < 30; i++){
     
     printf("%d\n",i);
