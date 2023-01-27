@@ -6,9 +6,10 @@
 int main(void) {
     
   printf("Hello from another C progam!\n");
-  for(int i = 0; i < 30; i++){
+  for(int i = 0; i < 15; i++){
     
     printf("%d\n",i);
+    sleep(1);
   }
   
 }
