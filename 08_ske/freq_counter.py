@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # quick and dirty python script to count frequencies of
 # unigrams, bigrams, and trigrams in a corpus of text.
